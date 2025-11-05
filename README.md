@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aouaq
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Mobile Dev
+- 🌱 I’m currently A Mobile Dev
 
 <!---
 Aouaq/Aouaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
